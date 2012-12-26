@@ -301,7 +301,7 @@ static void check_toggled(GtkToggleButton *togglebutton, gpointer user_data)
   if (gtk_toggle_button_get_active((GtkToggleButton*)copy_check) ||
       gtk_toggle_button_get_active((GtkToggleButton*)primary_check))
   {
-    /* Only allow synchronize option if both primary and clipboard are enabled */
+    /* Only allow synchronize option if both primary OR clipboard are enabled */
     gtk_widget_set_sensitive((GtkWidget*)synchronize_check, TRUE);
   }
   else
