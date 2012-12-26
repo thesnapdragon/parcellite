@@ -1,0 +1,5 @@
+parcellite (1.0.2rc5-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Doug Springer <gpib@rickyrockrat.net>  Fri, 09 Sep 2011 17:08:02 -0600

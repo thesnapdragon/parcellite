@@ -1,0 +1,2 @@
+shlibs:Depends=libc6 (>= 2.3.4), libglib2.0-0 (>= 2.14.0), libgtk2.0-0 (>= 2.18.0), libpango1.0-0 (>= 1.14.0), libx11-6 (>= 0)
+misc:Depends=

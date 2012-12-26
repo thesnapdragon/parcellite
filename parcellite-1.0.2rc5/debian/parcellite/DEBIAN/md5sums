@@ -1,0 +1,60 @@
+bufsize=16
+7993a060bd1ad69ffb87a0124490eb7f  usr/bin/parcellite
+bufsize=16
+4622470aaa1ecea66b9c5e13f58bce39  usr/share/locale/pt_BR/LC_MESSAGES/parcellite.mo
+bufsize=16
+8e89dbec00024f8da64c6af4e1109eeb  usr/share/locale/zh_CN/LC_MESSAGES/parcellite.mo
+bufsize=16
+f037b97e50b485929bd0d792386f6fc0  usr/share/locale/fr/LC_MESSAGES/parcellite.mo
+bufsize=16
+4ef2dd21cd2d12e814adcbafbe17a74f  usr/share/locale/ca/LC_MESSAGES/parcellite.mo
+bufsize=16
+a680e2c38cf0ec5ba098b20ae7804dd8  usr/share/locale/es/LC_MESSAGES/parcellite.mo
+bufsize=16
+69192ac376ffa997376682fd1fe35776  usr/share/locale/tr/LC_MESSAGES/parcellite.mo
+bufsize=16
+faba53c3df5403ee58df150d984b8e1a  usr/share/locale/da/LC_MESSAGES/parcellite.mo
+bufsize=16
+8935caa4008b8e545f746954b1d17e43  usr/share/locale/ja/LC_MESSAGES/parcellite.mo
+bufsize=16
+2d1204a02df23dff165ca878e8db4b73  usr/share/locale/ru/LC_MESSAGES/parcellite.mo
+bufsize=16
+764957da516eae0bd85cb97613c86bb5  usr/share/locale/it/LC_MESSAGES/parcellite.mo
+bufsize=16
+cda7c5030965c95f0853b29646f530e6  usr/share/locale/pl_PL/LC_MESSAGES/parcellite.mo
+bufsize=16
+a21bd25aef640a93d121243af79b8c70  usr/share/locale/sv/LC_MESSAGES/parcellite.mo
+bufsize=16
+443a195b281e59d6e44915e438af38af  usr/share/locale/pl/LC_MESSAGES/parcellite.mo
+bufsize=16
+c754dd83a99f9868f6cdbd8cf61e2936  usr/share/locale/nb/LC_MESSAGES/parcellite.mo
+bufsize=16
+ef9a2729385702455b6fb9254baf9c24  usr/share/locale/de/LC_MESSAGES/parcellite.mo
+bufsize=16
+eba80bd2000a253ee707caab2116f5e0  usr/share/locale/cs/LC_MESSAGES/parcellite.mo
+bufsize=16
+b5f4d80fc1b75caa9186dc80a7bbe0d7  usr/share/locale/ro/LC_MESSAGES/parcellite.mo
+bufsize=16
+cec7201f04159aaab3863abcd39cb844  usr/share/locale/hu/LC_MESSAGES/parcellite.mo
+bufsize=16
+ea570fad1b8390c6013134c05c0237f4  usr/share/applications/parcellite.desktop
+bufsize=16
+b7e7d1f74c56379b7600a24bc9fdecaf  usr/share/man/man1/parcellite.1.gz
+bufsize=16
+2af75e1c217d194af41dfd76f0d34907  usr/share/doc/parcellite/changelog.gz
+bufsize=16
+cc41b089f72fc340ade5f27ef5771be7  usr/share/doc/parcellite/changelog.Debian.gz
+bufsize=16
+ccc9c042bce7166756d441a77a125d05  usr/share/doc/parcellite/NEWS.gz
+bufsize=16
+8ef55014abf0f89e4ff836b033d6127b  usr/share/doc/parcellite/TODO
+bufsize=16
+f57d5a8116109e01217e3f275820d15d  usr/share/doc/parcellite/copyright
+bufsize=16
+75433ba1c572916e23b95af7d04b646d  usr/share/doc/parcellite/README
+bufsize=16
+706d39742094ee43f6662216c9f450da  usr/share/pixmaps/parcellite.svg
+bufsize=16
+c324be737013cbea8565529bbc275cd1  usr/share/pixmaps/parcellite.png
+bufsize=16
+bf40a82717868251677ab41905380c77  usr/share/pixmaps/parcellite.xpm
